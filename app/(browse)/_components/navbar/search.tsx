@@ -15,7 +15,6 @@ export const Search = () =>{
     const onSubmit = (e: React.FormEvent<HTMLFormElement>)=>{
         e.preventDefault();
 
-        if (!value) return;
         const url = qs.stringifyUrl({
             url:"/search",
             query: {term: value},
