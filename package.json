@@ -33,7 +33,7 @@
     "livekit-client": "^2.4.0",
     "livekit-server-sdk": "^2.5.1",
     "lucide-react": "^0.407.0",
-    "next": "14.2.4",
+    "next": "14.2.12",
     "next-themes": "^0.3.0",
     "ngrok": "^5.0.0-beta.2",
     "query-string": "^9.0.0",
